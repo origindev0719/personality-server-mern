@@ -38,4 +38,60 @@ export const questions = {
     weight: 4,
     id: "6",
   },
+
+  "7": {
+    questions:
+      "You prefer to completely finish one project before starting another.",
+    type: "J/P",
+    weight: 7,
+    id: "7",
+  },
+  "8": {
+    questions:
+      "You prefer to completely finish one project before starting another.",
+    type: "F/T",
+    weight: 9,
+    id: "8",
+  },
+  "9": {
+    questions: "You like to use organizing tools like schedules and lists.",
+    type: "J/P",
+    weight: 8,
+    id: "9",
+  },
+  "10": {
+    questions:
+      "Even a small mistake can cause you to doubt your overall abilities and knowledge.",
+    type: "J/P",
+    weight: 7,
+    id: "10",
+  },
+  "11": {
+    questions:
+      "You feel comfortable just walking up to someone you find interesting and striking up a conversation.",
+    type: "E/I",
+    weight: 8,
+    id: "11",
+  },
+  "12": {
+    questions:
+      "You are not too interested in discussing various interpretations and analyses of creative works.",
+    type: "N/S",
+    weight: 5,
+    id: "12",
+  },
+
+  "13": {
+    questions: "You are more inclined to follow your head than your heart.",
+    type: "F/T",
+    weight: 3,
+    id: "13",
+  },
+  "14": {
+    questions:
+      "You usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine.",
+    type: "J/P",
+    weight: 5,
+    id: "14",
+  },
 };
